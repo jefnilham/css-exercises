@@ -1,0 +1,12 @@
+.all_buttons {
+    font-family: Helvetica, sans-serif, 'Times New Roman', Times;
+}
+
+.left_button {
+    background-color: black;
+    color: white;
+}
+
+.right_button {
+    background-color: yellow;
+}
