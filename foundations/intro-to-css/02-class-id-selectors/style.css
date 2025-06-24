@@ -1,0 +1,20 @@
+.normal_class,
+.class_but_cooler {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans',sans-serif;
+}
+
+.class_but_cooler {
+    font-size: 24px;
+}
+
+#one_id {
+    color: blue;
+    font-size: 36px;
+}
+
+#another_id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
